@@ -346,7 +346,7 @@
 			input[type="reset"].alt,
 			.button.alt
 			{
-				background: #252122;
+				background: #053C79;
 			}
 
 				input[type="button"].alt:hover,
@@ -354,7 +354,7 @@
 				input[type="reset"].alt:hover,
 				.button.alt:hover
 				{
-					background: #353132;
+					background: #0860c2;
 				}
 
 				input[type="button"].alt:active,
